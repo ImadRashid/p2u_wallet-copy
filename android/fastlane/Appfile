@@ -1,0 +1,2 @@
+json_key_file("./PLAY_STORE_CONFIG_JSON.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("kr.p2u.wallet") # e.g. com.krausefx.app

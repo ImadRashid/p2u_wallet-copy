@@ -1,0 +1,9 @@
+Welcome to P2U Wallet - your ultimate digital asset management solution.
+With P2U Wallet, you can safely store and manage your cryptocurrencies in one place. Here are the key features:
+- QR Transactions: You can easily send and receive cryptocurrencies using QR codes. Simply scan the code and your transaction will be completed quickly and securely.
+- Transaction History: Keep track of your transaction history in the app. You can view all your previous transactions and their status.
+- In-app Wallet Termination: If you decide to terminate your wallet, you can do so easily within the app. Your digital assets will be securely removed.
+- Affiliate Stores Locations: Find physical stores and merchants that accept cryptocurrencies through our affiliate program.
+- Language Selection: P2U Wallet supports multiple languages, including English, Chinese, Japanese, and Korean. You can choose your preferred language from the app settings.
+- Change Password: You can change your password anytime within the app. We recommend that you change your password periodically to ensure the security of your account.
+- Contact Us: If you have any questions or issues, you can contact our support team directly from the app. Our team is available 24/7 to assist you with any concerns.

@@ -1,0 +1,92 @@
+name: p2u_wallet
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+10
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  adaptive_dialog: ^1.8.0+1
+  connectivity_plus: ^3.0.2
+  cupertino_icons: ^1.0.2
+  dotted_border: ^2.0.0+2
+  email_validator: ^2.1.16
+  firebase_auth: ^4.1.1
+  firebase_core: ^2.1.1
+  firebase_crashlytics: ^3.0.7
+  firebase_dynamic_links: ^5.0.7
+  flutter:
+    sdk: flutter
+  flutter_facebook_auth: ^4.4.1+1
+  flutter_image_slideshow: ^0.1.4
+  flutter_screenutil: ^5.5.4
+  flutter_svg: ^1.1.4
+  geolocator: ^9.0.2
+  get: ^4.6.5
+  get_it: ^7.2.0
+  google_fonts: ^3.0.1
+  google_maps_flutter: ^2.2.3
+  google_sign_in: ^5.3.3
+  http: ^0.13.4
+  internet_connection_checker: null
+  local_auth: ^2.1.1
+  modal_progress_hud_nsn: ^0.2.1
+  provider: ^6.0.4
+  qr_code_scanner: ^1.0.1
+  qr_flutter: ^4.0.0
+  shared_preferences: ^2.0.6
+  shimmer: ^2.0.0
+  sign_in_with_apple: ^4.2.0
+  tutorial_coach_mark: ^1.2.4
+  url_launcher: ^6.1.10
+  webview_flutter: ^3.0.4
+
+##
+## These dependencies do not get compiled into app source code,
+## They are only used as helpers during development purposes
+##
+dev_dependencies:
+  change_app_package_name: ^1.1.0
+  flutter_launcher_icons: ^0.10.0
+  flutter_test:
+    sdk: flutter
+
+  integration_test:
+    sdk: flutter
+
+# This is used to for automated app_icons generation
+# flutter pub run flutter_launcher_icons:main
+flutter_icons:
+  image_path: "assets/app_icons/app_icon.png"
+  # android: true
+  ios: true
+  remove_alpha_ios: true
+  # /assets/app_icons/app_icon.png
+
+# flutter:
+flutter:
+  uses-material-design: true
+  # fonts:
+  #   - family: Noto Sans
+  #     fonts:
+  #       - asset: fonts/Noto_Sans/NotoSans-Regular.ttf
+  #       - asset: fonts/Noto_Sans/NotoSans-Italic.ttf
+  #         style: italic
+  #   - family: Poppins
+  #     fonts:
+  #       - asset: fonts/Poppins/Poppins-Regular.ttf
+  #       - asset: fonts/Poppins/Poppins-Italic.ttf
+  #         style: italic
+  assets:
+    - assets/
+    - assets/v2/
+    - assets/social_icons/
+    - assets/notification_icons/
+    - assets/svg_icons/
+    - assets/my_icons/
+    - assets/flags/
+    - assets/banners/
+    - assets/exchange/

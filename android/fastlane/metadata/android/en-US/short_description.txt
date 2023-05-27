@@ -1,0 +1,1 @@
+P2U is a point wallet that allows users to make purchases using point system.
